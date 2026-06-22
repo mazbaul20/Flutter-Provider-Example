@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../provider/provider.dart';
+import '../provider/counter_provider.dart';
 
 class MyHomePage extends StatelessWidget {
   const MyHomePage({super.key});
